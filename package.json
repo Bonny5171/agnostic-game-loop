@@ -1,0 +1,25 @@
+{
+  "name": "agnostiic-game",
+  "version": "2.0.0",
+  "description": "Um jogo desenvolvido em Javascript, e agora refatorado utilizando reactJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonny5171/agnostic-game-loop.git"
+  },
+  "keywords": [
+    "game",
+    "javascript",
+    "node",
+    "react"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bonny5171/agnostic-game-loop/issues"
+  },
+  "homepage": "https://github.com/Bonny5171/agnostic-game-loop#readme"
+}
